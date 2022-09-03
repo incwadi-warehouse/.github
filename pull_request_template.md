@@ -5,5 +5,4 @@
 |Experiment         |y/n
 |Deprecation        |y/n
 |Related Issues     |   
-
-Notes:
+|Notes              |
