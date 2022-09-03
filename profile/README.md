@@ -1,4 +1,5 @@
 # incwadi-warehouse
 
 - [Docu](https://github.com/incwadi-warehouse/docu)
-- [Releases and Changelog](https://github.com/incwadi-warehouse/docu/releases)
+- [Releases](https://github.com/incwadi-warehouse/docu/releases)
+- [Changelog](https://github.com/incwadi-warehouse/docu/blob/main/CHANGELOG.md)
