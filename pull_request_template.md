@@ -1,8 +1,7 @@
 |Q                  |A  
 |-------------------|---
-|New Feature        |y/n
-|Bugfix             |y/n
-|Experiment         |y/n
-|Deprecation        |y/n
-|Related Issues     |   
-|Notes              |
+|New Feature        |
+|Bugfix             |
+|Experiment         |
+|Deprecation        |
+<!-- Please, answer the questions with y or n -->
