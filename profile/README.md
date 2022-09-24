@@ -3,4 +3,4 @@
 - [Docu](https://github.com/incwadi-warehouse/docu)
 - [Changelog](https://github.com/incwadi-warehouse/docu/blob/main/CHANGELOG.md)
 
-Latest Release: v42 (31.08.22)
+Latest Release: v43 (24.09.2022)
